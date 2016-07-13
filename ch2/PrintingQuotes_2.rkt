@@ -1,5 +1,4 @@
 #lang racket
-(require readline/readline)
 
 (struct quote (words quoter))
 
